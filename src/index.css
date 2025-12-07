@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* If you need custom theme values, add them here: */
+@theme {
+  /* Example: changing the default font */
+  --font-sans: "Inter", sans-serif;
+
+  /* Example: adding a custom color */
+  --color-brand: #3b82f6; 
+}
